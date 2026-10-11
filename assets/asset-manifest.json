@@ -1,5 +1,5 @@
 {
-  "count": 38,
+  "count": 53,
   "assets": [
     {
       "slug": "01-glasses-character",
@@ -152,9 +152,19 @@
       "sha256": "2f7e2c4034e276c6f0cafdc6aa48cc1bfcefd2d0ef4cf17138bae179048c0fc5"
     },
     {
+      "slug": "angelfish",
+      "bytes": 21083,
+      "sha256": "d15fd0f3ac98d7b70a7251ce6be46055e9e8645ad37b4538efe19696a9dbe121"
+    },
+    {
       "slug": "bright-spark",
       "bytes": 340,
       "sha256": "7fc61d66f952ea4f464f83f887aa76d6484ee0bd9a7e160b9b44971581812825"
+    },
+    {
+      "slug": "curly-hair-profile",
+      "bytes": 8585,
+      "sha256": "97ea2edd4b057efd6cf6551a94f1e31864058c2783b5128ce8579c22f3605f12"
     },
     {
       "slug": "daydream-cloud",
@@ -167,6 +177,26 @@
       "sha256": "188b352a8b5436e00062e0b5357419678eba0fe8cf4a2b74dae9c3dff6622509"
     },
     {
+      "slug": "flowing-goldfish",
+      "bytes": 77476,
+      "sha256": "cefd394ddbe8d9afca34414ae2cb92324b35872e3048346c80eab20de5f0652f"
+    },
+    {
+      "slug": "giraffe-head-portrait",
+      "bytes": 20094,
+      "sha256": "03798ff40979132a88ffa29e0a8b7a875463583f840b6d0783876ea3fe94bd22"
+    },
+    {
+      "slug": "hummingbird",
+      "bytes": 99405,
+      "sha256": "ee1b97be3f0f6a72a6d8c66af99c39de7f774c412b6a3b5621e0a1af0fac1993"
+    },
+    {
+      "slug": "leopard-portrait",
+      "bytes": 43808,
+      "sha256": "a18c42ddf0e8111714880237ab314ae1e447143187cf2e51c14916940893080f"
+    },
+    {
       "slug": "little-sun",
       "bytes": 292,
       "sha256": "702d3f9c9cbe9d3ec55f7256af3633f15d12de52b130ed5ae80d99651619d6a9"
@@ -175,6 +205,16 @@
       "slug": "loop-arrow",
       "bytes": 266,
       "sha256": "b4935561c0dce80dc685106bdb528952698ceaef0fcea29c3b9775c19db57258"
+    },
+    {
+      "slug": "monarch-butterfly-sideview",
+      "bytes": 20710,
+      "sha256": "ffe85821d51c367fba0204cb56d80425dc494f5cbb917c720c520fe6055112dd"
+    },
+    {
+      "slug": "octopus-illustration",
+      "bytes": 67621,
+      "sha256": "1680eaeee49cd563b538b71e675502051f00fbc6f6fe616768fe266e694c9194"
     },
     {
       "slug": "orbit-loop",
@@ -187,9 +227,44 @@
       "sha256": "974774953dab25914781c2cd48e95fd38bc4aac37b7cd03ff8639cfe4e774247"
     },
     {
+      "slug": "spotted-fawn-and-star",
+      "bytes": 36487,
+      "sha256": "bef35376299b4406e5879fa3749c0af70b22fa20190114d3d21c1852d48ed1e4"
+    },
+    {
+      "slug": "striped-bow",
+      "bytes": 7103,
+      "sha256": "019a18813ff1fb518154b551639e99bf72142f89b477f4cb2e337b50793c59b7"
+    },
+    {
+      "slug": "sunglasses-cat-character",
+      "bytes": 20141,
+      "sha256": "48c4fee8ab819248f7982a032b90c39171b7a606c236ab221fe179990fa4f161"
+    },
+    {
+      "slug": "swallows-and-stars",
+      "bytes": 29520,
+      "sha256": "5eb45b59c565716301fc267b62ad97a9caf1ea6455b3e4dc3aaa7193225aaec4"
+    },
+    {
       "slug": "wild-petal",
       "bytes": 319,
       "sha256": "5f07db5cf8e45573b149e73719342920a01ff2b6738309e875653fc961bb34a6"
+    },
+    {
+      "slug": "zebra-pattern-cat",
+      "bytes": 42454,
+      "sha256": "d2ad5b04ed02d50615558a371e0e1cc50be52468739aeabb23e1459f9b818502"
+    },
+    {
+      "slug": "zebra-profile",
+      "bytes": 55449,
+      "sha256": "862f02ede305977b2d58285a482cd0e657198bb1f6828b38752ecbeec7927a0e"
+    },
+    {
+      "slug": "zebra-window-portrait",
+      "bytes": 13294,
+      "sha256": "8774d7e837ecb85c6ceca1d636cd95425ff380d7660d752cacb494bad1b2aec4"
     }
   ]
 }

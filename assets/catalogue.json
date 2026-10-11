@@ -210,6 +210,13 @@
     "demo": false
   },
   {
+    "name": "Angelfish",
+    "slug": "angelfish",
+    "category": "Your doodles",
+    "tags": [],
+    "demo": false
+  },
+  {
     "legacyId": "8",
     "name": "Bright Spark",
     "slug": "bright-spark",
@@ -220,6 +227,13 @@
       "shine"
     ],
     "demo": true
+  },
+  {
+    "name": "Curly Hair Profile",
+    "slug": "curly-hair-profile",
+    "category": "Your doodles",
+    "tags": [],
+    "demo": false
   },
   {
     "legacyId": "2",
@@ -246,6 +260,34 @@
     "demo": true
   },
   {
+    "name": "Flowing Goldfish",
+    "slug": "flowing-goldfish",
+    "category": "Your doodles",
+    "tags": [],
+    "demo": false
+  },
+  {
+    "name": "Giraffe Head Portrait",
+    "slug": "giraffe-head-portrait",
+    "category": "Your doodles",
+    "tags": [],
+    "demo": false
+  },
+  {
+    "name": "Hummingbird",
+    "slug": "hummingbird",
+    "category": "Your doodles",
+    "tags": [],
+    "demo": false
+  },
+  {
+    "name": "Leopard Portrait",
+    "slug": "leopard-portrait",
+    "category": "Your doodles",
+    "tags": [],
+    "demo": false
+  },
+  {
     "legacyId": "4",
     "name": "Little Sun",
     "slug": "little-sun",
@@ -268,6 +310,20 @@
       "flow"
     ],
     "demo": true
+  },
+  {
+    "name": "Monarch Butterfly Sideview",
+    "slug": "monarch-butterfly-sideview",
+    "category": "Your doodles",
+    "tags": [],
+    "demo": false
+  },
+  {
+    "name": "Octopus Illustration",
+    "slug": "octopus-illustration",
+    "category": "Your doodles",
+    "tags": [],
+    "demo": false
   },
   {
     "legacyId": "1",
@@ -294,6 +350,34 @@
     "demo": true
   },
   {
+    "name": "Spotted Fawn And Star",
+    "slug": "spotted-fawn-and-star",
+    "category": "Your doodles",
+    "tags": [],
+    "demo": false
+  },
+  {
+    "name": "Striped Bow",
+    "slug": "striped-bow",
+    "category": "Your doodles",
+    "tags": [],
+    "demo": false
+  },
+  {
+    "name": "Sunglasses Cat Character",
+    "slug": "sunglasses-cat-character",
+    "category": "Your doodles",
+    "tags": [],
+    "demo": false
+  },
+  {
+    "name": "Swallows And Stars",
+    "slug": "swallows-and-stars",
+    "category": "Your doodles",
+    "tags": [],
+    "demo": false
+  },
+  {
     "legacyId": "6",
     "name": "Wild Petal",
     "slug": "wild-petal",
@@ -304,5 +388,26 @@
       "bloom"
     ],
     "demo": true
+  },
+  {
+    "name": "Zebra Pattern Cat",
+    "slug": "zebra-pattern-cat",
+    "category": "Your doodles",
+    "tags": [],
+    "demo": false
+  },
+  {
+    "name": "Zebra Profile",
+    "slug": "zebra-profile",
+    "category": "Your doodles",
+    "tags": [],
+    "demo": false
+  },
+  {
+    "name": "Zebra Window Portrait",
+    "slug": "zebra-window-portrait",
+    "category": "Your doodles",
+    "tags": [],
+    "demo": false
   }
 ]
