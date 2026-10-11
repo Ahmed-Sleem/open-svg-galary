@@ -1,0 +1,45 @@
+{
+  "count": 8,
+  "assets": [
+    {
+      "slug": "bright-spark",
+      "bytes": 340,
+      "sha256": "7fc61d66f952ea4f464f83f887aa76d6484ee0bd9a7e160b9b44971581812825"
+    },
+    {
+      "slug": "daydream-cloud",
+      "bytes": 303,
+      "sha256": "dfe970f752ba0158af0fcfa6a12049f125633cdca3a76c82e9ca27cce25025d6"
+    },
+    {
+      "slug": "echo-heart",
+      "bytes": 338,
+      "sha256": "188b352a8b5436e00062e0b5357419678eba0fe8cf4a2b74dae9c3dff6622509"
+    },
+    {
+      "slug": "little-sun",
+      "bytes": 292,
+      "sha256": "702d3f9c9cbe9d3ec55f7256af3633f15d12de52b130ed5ae80d99651619d6a9"
+    },
+    {
+      "slug": "loop-arrow",
+      "bytes": 266,
+      "sha256": "b4935561c0dce80dc685106bdb528952698ceaef0fcea29c3b9775c19db57258"
+    },
+    {
+      "slug": "orbit-loop",
+      "bytes": 403,
+      "sha256": "a735c07e62f605d351d5d3073f51f6084bd8cc7e6c9574151e22f26f7e527578"
+    },
+    {
+      "slug": "ribbon-wave",
+      "bytes": 281,
+      "sha256": "974774953dab25914781c2cd48e95fd38bc4aac37b7cd03ff8639cfe4e774247"
+    },
+    {
+      "slug": "wild-petal",
+      "bytes": 319,
+      "sha256": "5f07db5cf8e45573b149e73719342920a01ff2b6738309e875653fc961bb34a6"
+    }
+  ]
+}

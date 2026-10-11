@@ -1,0 +1,98 @@
+[
+  {
+    "legacyId": "8",
+    "name": "Bright Spark",
+    "slug": "bright-spark",
+    "category": "Sparkles",
+    "tags": [
+      "sparkle",
+      "star",
+      "shine"
+    ],
+    "demo": true
+  },
+  {
+    "legacyId": "2",
+    "name": "Daydream Cloud",
+    "slug": "daydream-cloud",
+    "category": "Nature",
+    "tags": [
+      "cloud",
+      "daydream",
+      "soft"
+    ],
+    "demo": true
+  },
+  {
+    "legacyId": "5",
+    "name": "Echo Heart",
+    "slug": "echo-heart",
+    "category": "Hearts",
+    "tags": [
+      "heart",
+      "love",
+      "echo"
+    ],
+    "demo": true
+  },
+  {
+    "legacyId": "4",
+    "name": "Little Sun",
+    "slug": "little-sun",
+    "category": "Nature",
+    "tags": [
+      "sun",
+      "rays",
+      "shine"
+    ],
+    "demo": true
+  },
+  {
+    "legacyId": "3",
+    "name": "Loop Arrow",
+    "slug": "loop-arrow",
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "loop",
+      "flow"
+    ],
+    "demo": true
+  },
+  {
+    "legacyId": "1",
+    "name": "Orbit Loop",
+    "slug": "orbit-loop",
+    "category": "Loops",
+    "tags": [
+      "orbit",
+      "loop",
+      "rings"
+    ],
+    "demo": true
+  },
+  {
+    "legacyId": "7",
+    "name": "Ribbon Wave",
+    "slug": "ribbon-wave",
+    "category": "Lines",
+    "tags": [
+      "ribbon",
+      "wave",
+      "underline"
+    ],
+    "demo": true
+  },
+  {
+    "legacyId": "6",
+    "name": "Wild Petal",
+    "slug": "wild-petal",
+    "category": "Flowers",
+    "tags": [
+      "flower",
+      "petal",
+      "bloom"
+    ],
+    "demo": true
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "name": "open-svg-galary",
+  "version": "1.2.0",
+  "private": true,
+  "type": "module",
+  "description": "OPEN SVG GALARY — a responsive, auto-publishing SVG collection with an animated universe and true-colour mode.",
+  "scripts": {
+    "start": "node server.mjs",
+    "dev": "node server.mjs",
+    "catalogue": "node scripts/catalogue.mjs",
+    "check": "node scripts/verify-assets.mjs",
+    "build:standalone": "node scripts/build-standalone.mjs"
+  },
+  "devDependencies": { "esbuild": "0.28.2" },
+  "engines": { "node": ">=18" }
+}
