@@ -10,7 +10,7 @@ const svgs = Object.fromEntries(await Promise.all(catalogue.map(async ({ slug })
   slug, await readFile(path.join(root, `doodles/${slug}.svg`), "utf8"),
 ])));
 let css = await readFile(path.join(root, "src/styles.css"), "utf8");
-for (const filename of ["geist-latin.woff2", "bricolage-latin.woff2", "geist-mono-latin.woff2"]) {
+for (const filename of ["inter-latin.woff2", "geist-mono-latin.woff2"]) {
   const data = await readFile(path.join(root, `assets/fonts/${filename}`));
   css = css.replace(`../assets/fonts/${filename}`, () => `data:font/woff2;base64,${data.toString("base64")}`);
 }

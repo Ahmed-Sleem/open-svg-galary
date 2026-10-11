@@ -66,7 +66,7 @@ const server = http.createServer(async (request, response) => {
 
 server.listen(port, host, () => {
   console.log(`Doodle Universe is ready at http://localhost:${port}`);
-  console.log("Your own collection · light glass inspector · SVG downloads · local assets");
+  console.log("Your own collection · clear dark-glass inspector · SVG downloads · local assets");
 });
 server.on("error", (error) => { console.error(error.message); process.exitCode = 1; });
 for (const signal of ["SIGINT", "SIGTERM"]) process.on(signal, () => server.close(() => process.exit(0)));
