@@ -1,6 +1,156 @@
 {
-  "count": 8,
+  "count": 38,
   "assets": [
+    {
+      "slug": "01-glasses-character",
+      "bytes": 11516,
+      "sha256": "24a56528a50e5d4b66171fbb27923397dc0a709041d6b61f7a897fd242b4b7ff"
+    },
+    {
+      "slug": "03-goggle-fox",
+      "bytes": 20703,
+      "sha256": "bf0161d6215dcc1055020bf2e03b82145aa2251245e96c9aead3cd1a570002cc"
+    },
+    {
+      "slug": "04-goggle-girl",
+      "bytes": 21307,
+      "sha256": "40d7e8642a0d065fa8904147012c635287fdb010703db920165610b4d93e4133"
+    },
+    {
+      "slug": "06-guitar-witch",
+      "bytes": 11900,
+      "sha256": "75333e0cc327b632b4d539f9970f34d736b38523a12198e9fa4cb80bcaa746ba"
+    },
+    {
+      "slug": "07-guitar-cat",
+      "bytes": 8582,
+      "sha256": "a60d46729ae11ac8145bbe6959c18e6d103e8cb5ce42930f3b8591887f30ebbf"
+    },
+    {
+      "slug": "08-cat-girl",
+      "bytes": 10145,
+      "sha256": "76b1f05b8a1099bb148e492e2fde4b56c07fe0d2018206270626f8d25dfa0ce2"
+    },
+    {
+      "slug": "09-bunny-icon",
+      "bytes": 2229,
+      "sha256": "35daeb990a1ac20c04fef43b3cb31123d6fc2d5c04618df2268c51acf3066994"
+    },
+    {
+      "slug": "10-dark-hair-portrait",
+      "bytes": 4358,
+      "sha256": "89101028d9b514f2e8099d3944a7ef36e4d42b1e997b8096044a4188c37036d1"
+    },
+    {
+      "slug": "11-horned-chibi",
+      "bytes": 5744,
+      "sha256": "b7cd7c1a0e711ff5fea8cd64b977140eadac80742e17cc36d65f938600bb502d"
+    },
+    {
+      "slug": "12-cat-hood-portrait",
+      "bytes": 9252,
+      "sha256": "fad39a4cf140901f76de84976143435bd648170cb8af2d6ffdac2c11711fc7dc"
+    },
+    {
+      "slug": "13-big-eye-cat",
+      "bytes": 2855,
+      "sha256": "28e5f8f59c69ea130e63933584aea7bd72ce8e3693bfed51ce2bdb1a27884d5b"
+    },
+    {
+      "slug": "14-big-eye-kitty",
+      "bytes": 3314,
+      "sha256": "86efb40cd96094d94a880b19e04b1a1a05c466f134d4d9e4258a5e2072746d45"
+    },
+    {
+      "slug": "15-fishbowl-cat",
+      "bytes": 6625,
+      "sha256": "f8a667920b09925f4bc118030f9d6f80840f8098fd61b4a580a81a96017fa504"
+    },
+    {
+      "slug": "16-ufo-cats",
+      "bytes": 31575,
+      "sha256": "5344d60a911e99385388322efcf2df72571220968c96a0c50009cb25afd8331e"
+    },
+    {
+      "slug": "17-portrait-tile",
+      "bytes": 49014,
+      "sha256": "e5834be9d962a6d326ebfa38356bf8c7bd80eac6b5a77d90118b78a9a734275a"
+    },
+    {
+      "slug": "18-fish-mobile",
+      "bytes": 69118,
+      "sha256": "bfefcc79cb6fb54d4e00b4c0dcf29fdb59b95832da6adab19f065fa758b80176"
+    },
+    {
+      "slug": "19-tiger-face",
+      "bytes": 16073,
+      "sha256": "4147b46d71217d25a1173da355cb9622bce7d6d31b604ab5f56705507e597435"
+    },
+    {
+      "slug": "20-space-cat",
+      "bytes": 16404,
+      "sha256": "579702b1dad622caccb5932a8c4a8f655e1ff6d11258cd23359f65a6e551ee08"
+    },
+    {
+      "slug": "21-camera-cat",
+      "bytes": 14132,
+      "sha256": "3d87791cf34daed288c01311af669be6c713f2ad576f39c7dc51c14f58b53d51"
+    },
+    {
+      "slug": "22-trash-can-cat",
+      "bytes": 31384,
+      "sha256": "66b492274c429e6195c9831940bd85d2565fae23fc2ad1adb20a58d268491261"
+    },
+    {
+      "slug": "23-game-console-cats",
+      "bytes": 31295,
+      "sha256": "5e006601b29ac1bf06323857b8e2342178f48e94ffb509329a4a1bb2253742f9"
+    },
+    {
+      "slug": "24-plant-cats",
+      "bytes": 51364,
+      "sha256": "094141838c77f5f31f538234e922d5100506688af1f050dd1bf6fdcd749b38a2"
+    },
+    {
+      "slug": "25-parrot-lino",
+      "bytes": 43826,
+      "sha256": "8599d7f794901529bc2ff17e065e6a10ae6c9184cf13b1439998980d54be185c"
+    },
+    {
+      "slug": "26-dragon-lino",
+      "bytes": 13750,
+      "sha256": "1157fea253e66df92365880705d931490b5d8847eabacb41f94799ce7a236a77"
+    },
+    {
+      "slug": "27-horse-tile",
+      "bytes": 16813,
+      "sha256": "c968cbca6b2dd33927584f1b7daaeb19a2cfe5c13cc0fd31e83ca23e98c2a4b2"
+    },
+    {
+      "slug": "28-panther-tile",
+      "bytes": 9011,
+      "sha256": "a526a24a86335fe7e958b32bea07c55ed2561c2c1030ae24e863f67b5c882892"
+    },
+    {
+      "slug": "29-poison-dart-frog",
+      "bytes": 54793,
+      "sha256": "604563d73767db1f46627cd5e0395743abe6f3ed4829f8609714897c24d84d5a"
+    },
+    {
+      "slug": "30-balloon-dog",
+      "bytes": 14146,
+      "sha256": "0951958e22ecf095f616c07cd84ff15eda88873f443fda18459c6c47fed97f65"
+    },
+    {
+      "slug": "31-chrome-star",
+      "bytes": 538907,
+      "sha256": "f9c954d3e14bf49fa76052aafd16849c66db07f40a8873cabc76f9f5da75519a"
+    },
+    {
+      "slug": "32-sparkle-set",
+      "bytes": 187133,
+      "sha256": "2f7e2c4034e276c6f0cafdc6aa48cc1bfcefd2d0ef4cf17138bae179048c0fc5"
+    },
     {
       "slug": "bright-spark",
       "bytes": 340,
